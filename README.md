@@ -30,7 +30,7 @@ Note that you will need to run the install command every time `pve-manager` is u
 The new installer relies on the `/meta/supported` and `/meta/imagelist` files being present in the repository. It also includes a silent mode. Run `bash nwpmx.sh -h` for usage instructions. 
 
 Furthermore, you will be able to provide the environment variables `REPO` and `TAG` to specify from what repository and from what commit tag to install the theme from.   
-`REPO` is in format `Username/Repository` and defaults to `Weilbyte/nwpmx` (this repository).    
+`REPO` is in format `Username/Repository` and defaults to `ederitsolutions/nwpmx` (this repository).    
 `TAG` defaults to `master`, but it is strongly recommended to use the SHA-1 commit hash for security.
 
 ## Offline bundle
@@ -44,7 +44,7 @@ You can find a zip containing the installer and offline folder under the artifac
 Thanks to everybody who contributed to this project, and additional thanks to [Crinisus](https://github.com/crinisus) for catching bugs for the rewrite!
 
 <a href="https://github.com/ederitsolutions/nwpmx/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=weilbyte/nwpmx" />
+  <img src="https://contrib.rocks/image?repo=ederitsolutions/nwpmx" />
 </a>
 
 
